@@ -10,7 +10,7 @@ def main():
     view = NoteView()
 
     while True:
-        print("Доступные команды:")
+        print("Доступные команды: ")
         print("add - Добавить заметку")
         print("list - Показать список заметок")
         print("show - Показать заметку")
